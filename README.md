@@ -27,7 +27,7 @@ The car rental automation system includes the customer, customer list, vehicles,
 |:--:|:--:|
 | *`figure 1.1: Add Vehicle`* | *`figure 1.2: Vehicle List`* |
 
-  | <img width=500 alt="1PNG" src="https://user-images.githubusercontent.com/47834164/147492988-269c83de-2973-4eba-8f90-3f71cc8aedde.png"> |<img  width=500 alt="2PNG" a src="https://user-images.githubusercontent.com/47834164/147492992-7772391f-637e-4c9c-9b76-07202ffb95c7.png">
+  | <img width=500 alt="1PNG" src="https://user-images.githubusercontent.com/47834164/147493907-c28e9f81-d17b-4862-b3fd-360180a81043.png"> |<img  width=500 alt="2PNG" a src="https://user-images.githubusercontent.com/47834164/147492992-7772391f-637e-4c9c-9b76-07202ffb95c7.png">
 |:--:|:--:|
 | *`figure 1.1: Agreement`* | *`figure 1.2: Sales`* |
   
