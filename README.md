@@ -16,3 +16,18 @@ The car rental automation system includes the customer, customer list, vehicles,
 * Rent a Car
 * Car delivery
 * Sales(History of sales)
+
+#### Working application User Interface:
+
+  | <img width=500 alt="1PNG" src="https://user-images.githubusercontent.com/47834164/147492844-708d83b5-0012-4bfb-9fe7-526083aab895.png"> |<img  width=500 alt="2PNG" a src="https://user-images.githubusercontent.com/47834164/147493242-18b46c45-1d3e-4c35-bbf0-1e185c6dc773.png">
+|:--:|:--:|
+| *`figure 1.1: Add Customer`* | *`figure 1.2:  Customer List`* |
+
+  | <img width=500 alt="1PNG" src="https://user-images.githubusercontent.com/47834164/147492854-3d577796-90cc-4731-9767-f05a731b2b2d.png"> |<img  width=500 alt="2PNG" a src="https://user-images.githubusercontent.com/47834164/147492856-12d744e6-76f8-4053-8b23-455f50e2e8f9.png">
+|:--:|:--:|
+| *`figure 1.1: Add Vehicle`* | *`figure 1.2: Vehicle List`* |
+
+  | <img width=500 alt="1PNG" src="https://user-images.githubusercontent.com/47834164/147492988-269c83de-2973-4eba-8f90-3f71cc8aedde.png"> |<img  width=500 alt="2PNG" a src="https://user-images.githubusercontent.com/47834164/147492992-7772391f-637e-4c9c-9b76-07202ffb95c7.png">
+|:--:|:--:|
+| *`figure 1.1: Agreement`* | *`figure 1.2: Sales`* |
+  
