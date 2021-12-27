@@ -1,0 +1,16 @@
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\bin\Debug\carauto.exe.config
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\bin\Debug\carauto.exe
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\bin\Debug\carauto.pdb
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.csproj.AssemblyReference.cache
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.addForm.resources
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.mainPage.resources
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.Properties.Resources.resources
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.csproj.GenerateResource.cache
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.csproj.CoreCompileInputs.cache
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.exe
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.pdb
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.frmCustomerList.resources
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.frmVehicleRegister.resources
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.frmVehicleList.resources
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.frmAgreement.resources
+C:\Users\yato\Desktop\kodemo\csharp\carauto\WebApplication1\carauto\carauto\obj\Debug\carauto.frmSales.resources
