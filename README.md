@@ -16,6 +16,7 @@ The car rental automation system includes the customer, customer list, vehicles,
 * Rent a Car
 * Car delivery
 * Sales(History of sales)
+* Weekly and Monthly discounts
 
 #### Working application User Interface:
 
